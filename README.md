@@ -2,5 +2,9 @@
 Simple example of how to execute code in threads
 
 ## How to build
-Code is made with xmake, you can use the vscode xmake extension if you are a vscode use.  
-but you need to install xmake anyway
+https://xmake.io/#/
+https://github.com/xmake-io/xmake-vscode
+
+## Util commands
+xmake project -k compile_commands  
+xmake project -k vsxmake // this one generate a visual studio solution
